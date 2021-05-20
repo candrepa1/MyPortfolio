@@ -45,7 +45,6 @@ const About = ({
 					</PolaroidContainer>
 
 					<ContentContainer>
-						{/* <div> */}
 						<ContentWindow>
 							<ContentHeader>
 								<CircleRed></CircleRed>
@@ -58,7 +57,6 @@ const About = ({
 								<p>{personalAbout}</p>
 							</ContentBody>
 						</ContentWindow>
-						{/* </div> */}
 					</ContentContainer>
 				</FullContainer>
 			</MainContainer>

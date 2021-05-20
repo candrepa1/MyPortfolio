@@ -14,9 +14,7 @@ import {
 const Header = ({ languageClick, language }) => {
 	const [checked, setChecked] = useState(false);
 
-	const handleChange = (nextChecked) => {
-		setChecked(nextChecked);
-	};
+	const handleChange = (nextChecked) => setChecked(nextChecked);
 
 	return (
 		<HeaderContainer>

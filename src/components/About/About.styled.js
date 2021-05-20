@@ -16,6 +16,8 @@ export const SectionTitle = styled.h2`
 	font-weight: 400;
 	font-size: 18px;
 	letter-spacing: 3px;
+	text-align: center;
+	padding-top: 20px;
 `;
 
 export const PolaroidContainer = styled.div`

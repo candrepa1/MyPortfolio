@@ -3,8 +3,11 @@ import styled from "styled-components";
 export const HeaderContainer = styled.section`
 	background-color: #e9d5a1;
 	height: 100%;
-	padding-top: 180px;
+	padding-top: 265px;
 	font-family: "Raleway", sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 `;
 
 export const Name = styled.h1`
